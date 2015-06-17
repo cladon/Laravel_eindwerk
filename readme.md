@@ -113,7 +113,9 @@ Idee en oorsprong - 3 - [brunogaspar's laravel-starter-kit](https://github.com/b
 
 <a name="feature5"></a>
 ##Schermafdrukken
-
+* index
 ![Index](http://i62.tinypic.com/6jev43.jpg)
+
+* login 
 ![Login](http://i58.tinypic.com/517j0o.jpg)
 
