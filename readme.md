@@ -42,9 +42,9 @@ Demo  http://l5start.mrakodol.info/
 ##Hoe installeren:
 * [Stap 1: Downloaden van de code](#step1)
 * [Stap 2: Gebruik composer om de benodigde componenten te installeren](#step2)
-* [Stap 4: Maak de database](#step3)
-* [Stap 5: Installeren van ...](#step4)
-* [Stap 6: Startpagina](#step6)
+* [Stap 3: Maak de database](#step3)
+* [Stap 4: Installeren van ...](#step4)
+* [Stap 5: Startpagina](#step5)
 
 -----
 <a name="step1"></a>
@@ -71,25 +71,9 @@ om de componenten en andere pakketten omgesomt in composer.json te installeren.
 Maak een database aan naar keuze in editeer het bestand ... \config\database.php met de juiste gegevens. Importeer het sql bestand wat je kan vinden in de map database.
 
 -----
+
 <a name="step4"></a>
-### Stap 5: Install
-
-
-
-Now that you have the environment configured, you need to create a database configuration for it. For create database tables use this command:
-
-    php artisan migrate
-
-And to initial populate database use this:
-
-    php artisan db:seed
-
-If you install on your localhost in folder laravel5startersite, you can type on web browser:
-
-	http://localhost/laravel5startersite/public
------
-<a name="step5"></a>
-### Stap 5: Startpagina
+### Stap 4: Startpagina
 
 Er zijn twee standaard gebruikers voorzien namelijk:
 
