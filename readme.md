@@ -92,8 +92,11 @@ Of gebruiker
 ## Bijkomende informatie
 
 Idee en oorsprong - 1 - [mrakodol's Laravel-5-Bootstrap-Starter-Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site)
+
 Idee en oorsprong - 2 - [andrewelkins's Laravel-4-Bootstrap-Starter-Site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)
+
 Idee en oorsprong - 3 - [brunogaspar's laravel-starter-kit](https://github.com/brunogaspar/laravel-starter-kit)
+
 
 <a name="feature5"></a>
 ##Schermafdrukken
