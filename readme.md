@@ -128,3 +128,11 @@ Idee en oorsprong - 3 - [brunogaspar's laravel-starter-kit](https://github.com/b
 * Gebruikers wijzigen
 ![Wijziggebruiker](http://i60.tinypic.com/zkshtf.jpg)
 
+* Leerplannen --> Doelen
+![doelen](http://i57.tinypic.com/69njv6.jpg)
+
+* Dashbord gebruiker
+![DashAdmin](http://i62.tinypic.com/ayx82o.jpg)
+
+* Wijzigen JAL-Doelen
+![WijzigJal](http://i58.tinypic.com/x3v9jo.jpg)
