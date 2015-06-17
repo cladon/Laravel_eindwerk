@@ -113,9 +113,18 @@ Idee en oorsprong - 3 - [brunogaspar's laravel-starter-kit](https://github.com/b
 
 <a name="feature5"></a>
 ##Schermafdrukken
-* index
+* Index
 ![Index](http://i62.tinypic.com/6jev43.jpg)
 
-* login 
+* Login 
 ![Login](http://i58.tinypic.com/517j0o.jpg)
+
+* Dashbord administrator
+![DashAdmin](http://i61.tinypic.com/alno0o.jpg)
+
+* Lijst met gebruikers
+![Lijstgebruikers](http://i57.tinypic.com/14jtbbm.jpg)
+
+* Gebruikers wijzigen
+![Wijziggebruiker](http://i60.tinypic.com/zkshtf.jpg)
 
