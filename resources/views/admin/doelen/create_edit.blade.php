@@ -41,7 +41,7 @@
                     <div class="col-md-12">
                         <label class="control-label" for="lp_id">{{
 						trans("admin/doelen.lpid") }}</label> <input
-                                class="form-control" type="hidden" name="lp_id" id="lp_id"
+                                class="form-control" type="text" name="lp_id" id="lp_id"
                                 value="{{{ Input::old('lp_id', isset($doelen) ? $doelen->lp_id : $id) }}}" />
                         {!!$errors->first('lp_id', '<label class="control-label"
                                                                  for="name">:message</label>')!!}

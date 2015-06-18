@@ -68,8 +68,21 @@ om de componenten en andere pakketten omgesomt in composer.json te installeren.
 <a name="step3"></a>
 ### Stap 3: Aanmaken database
 
-Maak een database aan naar keuze in editeer het bestand ... \config\database.php met de juiste gegevens. Importeer het sql bestand wat je kan vinden in de map database.
+Maak een database aan naar keuze in editeer het bestand ... \config\database.php met de juiste gegevens. 
 
+* importeren sql-bestand 
+  Importeer het sql bestand wat je kan vinden in de map database.
+
+* Aanmaken en voeden van een database
+
+  Je kan ook gebruik maken van de mogelijkheid om in Laravel een migratie uit te voeren in laravel.
+  
+        php artisan migrate
+  
+  Je kan twee basisgebruikers (admin en user) toevoegen aan de tabel met gebruikers.
+  
+        php artisan db:seed
+  
 -----
 
 <a name="step4"></a>

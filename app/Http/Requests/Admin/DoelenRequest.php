@@ -14,7 +14,7 @@ class DoelenRequest extends FormRequest {
         return [
             'code' => 'required',
             'competentie' => 'required',
-            'lpid' => 'required',
+            'lp_id' => 'required',
         ];
     }
 
