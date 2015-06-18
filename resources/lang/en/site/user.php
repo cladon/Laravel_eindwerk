@@ -2,7 +2,7 @@
 
 return [
 	'login' => 'Login',
-	'login_to_account' => 'Inlogggen in je account',
+	'login_to_account' => 'Inloggen in je account',
 	'submit' => 'Bevestig',
 	'register' => 'Aanmaken account',
 	'remember' => 'Onthoud',
